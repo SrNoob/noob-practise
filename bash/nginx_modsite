@@ -1,4 +1,8 @@
-nx_modsite
+#!/bin/bash
+
+##
+#  File:
+#    nginx_modsite
 #  Description:
 #    Provides a basic script to automate enabling and disabling websites found
 #    in the default configuration directories:
