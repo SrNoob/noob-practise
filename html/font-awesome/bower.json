@@ -1,0 +1,20 @@
+{
+  "name": "fontawesome",
+  "homepage": "https://github.com/SrNoob/noob-practise",
+  "authors": [
+    "herry <herry_tan@api-hk.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

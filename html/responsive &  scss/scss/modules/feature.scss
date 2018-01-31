@@ -1,0 +1,42 @@
+.feature{
+    position: relative;
+    padding-bottom: 20px;
+
+    img{
+        height: 200px;
+        width: 100%;
+        
+    }
+    .feature-item{
+        position: absolute;
+        
+    }
+}
+
+.feature-item{
+    font-size: 1.875em;
+    padding:10px 35px;
+    color:white;
+}
+
+.feature-primary
+{
+    border-top:4px solid $green;
+    .feature-item{
+        background: $green;
+    }
+}
+.feature-secondary
+{
+    border-top:4px solid $orange;
+    .feature-item{
+        background: $orange;
+    }
+}
+.feature-tertiary
+{
+    border-top:4px solid $light-brown;
+    .feature-item{
+        background: $light-brown;
+    }
+}
